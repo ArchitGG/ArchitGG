@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bicycle Counter - Fremont Bridge in Seattle, WA - Python Data Analysis to Reproducible Science**
 
-- 🌱 I’m currently learning **Cybersecurity Framework and Advanced Analytics in Python**
+- 🌱 I’m currently learning **Cybersecurity Analytical Tactics and Advanced Analytics in Python**
 
 - 💬 Ask me about **Information Management Framework**
 
