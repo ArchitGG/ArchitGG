@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Gubiligari</h1>
 <h3 align="center">I am enthusiastic about connecting with like-minded professionals, collaborating on data-driven initiatives, and contributing to the landscape of data science.</h3>
 
-- 🔭 I’m currently working on **Bicycle Counter - Road Accident Dashboard in PowerBI**
+- 🔭 I’m currently working on **Road Accident Analysis - Dashboard in PowerBI**
 
 - 🌱 I’m currently learning **Cybersecurity Analytical Tactics and Advanced Analytics in Python**
 
