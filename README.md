@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Information Management Framework**
 
-- 📫 How to reach me **architgg@uw.edu**
+- 📫 How to reach me **gubiligari.archit@gmail.com**
 
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
